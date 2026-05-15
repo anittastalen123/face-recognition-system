@@ -26,6 +26,10 @@ A real-time face detection and recognition system built using Python and OpenCV.
 ```bash
 face-recognition-system/
 │
+├── dataset/
+│   └── Person1/
+│       └── face.jpg
+│
 ├── realtime_face_detection.py
 └── README.md
 ```
